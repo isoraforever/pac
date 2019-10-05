@@ -9,6 +9,7 @@ var domains = {
   "googleusercontent.com": 1,
   "goo.gl": 1,
   "g.co": 1,
+  "android.com": 1,
   "youtube.com": 1,
   "googlevideo.com": 1,
   "ytimg.com": 1,
